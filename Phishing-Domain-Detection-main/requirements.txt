@@ -1,0 +1,12 @@
+flask
+gunicorn
+scipy
+scikit-learn
+numpy
+pandas
+python-whois
+urllib3
+requests
+bs4
+ipaddress
+lxml
